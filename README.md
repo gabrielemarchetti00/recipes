@@ -1,5 +1,6 @@
 # odin-recipes
 
-Basic recipe website
+Basic recipes website
 
-Html
+In this project i learned how to structure an html document,
+the usage of heading, paragraph, links, images, ordered and unordered lists.
